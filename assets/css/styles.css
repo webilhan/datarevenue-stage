@@ -4348,7 +4348,7 @@ img {
         border-bottom-color: transparent; }
 
 .home-slogan {
-  background: #b9e5e3 url("/assets/images/pattern_bg_color_light.png") repeat 0 0; }
+  background: #b9e5e3 url("../images/pattern_bg_color_light.png") repeat 0 0; }
   .home-slogan .home-slogan-text {
     padding-top: 18px; }
   .home-slogan h2 {
@@ -4617,7 +4617,7 @@ img {
     .footer-contact-section {
       background: linear-gradient(to bottom, #e88773 50%, #333 50%); } }
   .footer-contact-section .footer-contact-section-inner {
-    background: url("/assets/images/pattern.png") repeat 0 0;
+    background: url("../images/pattern_bg_color_dark.png") repeat 0 0;
     padding: 84px 0 50px 0; }
     @media (max-width: 768px) {
       .footer-contact-section .footer-contact-section-inner {
